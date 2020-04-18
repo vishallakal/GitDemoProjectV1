@@ -7,5 +7,4 @@ public class Simple
 		System.out.println("Simple Main Method");
 		
 	}
-
 }
